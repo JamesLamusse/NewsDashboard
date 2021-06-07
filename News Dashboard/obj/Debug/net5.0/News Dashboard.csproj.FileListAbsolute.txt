@@ -1,0 +1,165 @@
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\appsettings.Development.json
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\appsettings.json
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\News Dashboard.StaticWebAssets.xml
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\News Dashboard.exe
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\News Dashboard.deps.json
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\News Dashboard.runtimeconfig.json
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\News Dashboard.runtimeconfig.dev.json
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\News Dashboard.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ref\News Dashboard.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\News Dashboard.pdb
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\News Dashboard.Views.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\News Dashboard.Views.pdb
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Humanizer.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.csproj.AssemblyReference.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.AssemblyInfoInputs.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.AssemblyInfo.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.csproj.CoreCompileInputs.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.RazorAssemblyInfo.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.RazorAssemblyInfo.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\staticwebassets\News Dashboard.StaticWebAssets.Manifest.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\staticwebassets\News Dashboard.StaticWebAssets.xml
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\scopedcss\bundle\News Dashboard.styles.css
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.TagHelpers.input.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.TagHelpers.output.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.RazorCoreGenerate.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.RazorTargetAssemblyInfo.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.RazorTargetAssemblyInfo.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.Views.pdb
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.csproj.CopyComplete
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.dll
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\ref\News Dashboard.dll
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.pdb
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\News Dashboard.genruntimeconfig.cache
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\Projects\News Dashboard\News Dashboard\bin\Debug\net5.0\NewsAPI.dll
